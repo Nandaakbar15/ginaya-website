@@ -9,7 +9,7 @@ import { DataType } from "@/app/api/data";
 const settings = {
   dots: false,
   infinite: true,
-  slidesToShow: 5,
+  slidesToShow: 3,
   slidesToScroll: 1,
   arrows: false,
   autoplay: true,

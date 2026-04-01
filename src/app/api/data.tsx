@@ -56,17 +56,17 @@ export const DataType: { profession: string; name: string; imgSrc: string }[] =
     {
       profession: "Manajemen Proyek",
       name: "Muhammad Mulyadi",
-      imgSrc: "/images/wework/avatar.svg",
+      imgSrc: "/images/Foto1.jpg",
     },
     {
       profession: "Desain dan Perencanaan",
       name: "Deni Permana",
-      imgSrc: "/images/wework/avatar3.svg",
+      imgSrc: "/images/Foto2.jpg",
     },
     {
       profession: "Manajemen Proyek",
       name: "Yessica Geovani Basuki",
-      imgSrc: "/images/wework/avatar4.svg",
+      imgSrc: "/images/Foto3.png",
     },
   ];
 
