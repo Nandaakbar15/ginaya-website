@@ -3,7 +3,7 @@ export const ProductType: { id: number; section: string; link: string[] }[] = [
   {
     id: 1,
     section: "Menu",
-    link: ["Home", "Popular", "About", "Contact"],
+    link: ["Home", "About Us", "Contact", "Portfolio", "Personil"],
   },
   {
     id: 2,
@@ -12,11 +12,6 @@ export const ProductType: { id: number; section: string; link: string[] }[] = [
   },
   {
     id: 3,
-    section: "Pages",
-    link: ["404", "Instructions", "License"],
-  },
-  {
-    id: 4,
     section: "Others",
     link: ["Styleguide", "Changelog"],
   },
@@ -216,8 +211,8 @@ export const PortfolioData: {
       "/images/portfolio/pekerjaan-non-kimia-farma/rumah-tinggal-grand-terra-cimahi/image001.png",
   },
   {
-    heading: "Masjid AL ISTIQLAL Kecamatan Ciawitali",
-    name: "Pembangunan dan desain Masjid AL ISTIQLAL Kecamatan Ciawitali",
+    heading: "Masjid AL ISTIQOMAH Kecamatan Ciawitali",
+    name: "Pembangunan dan desain Masjid AL ISTIQOMAH Kecamatan Ciawitali",
     imgSrc:
       "/images/portfolio/pekerjaan-non-kimia-farma/pembangunan-masjid-al-istiqomah-ciawitali/image001.png",
   },
